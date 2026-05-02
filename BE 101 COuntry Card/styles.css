@@ -1,0 +1,17 @@
+body {
+  font-family: Papyrus;
+  background-color: #b2dfdb;
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.country-card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border: solid #ccc;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
